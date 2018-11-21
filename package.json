@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
-    "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "express-ws": "^4.0.0",
     "jsqr": "^1.1.1",
